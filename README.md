@@ -1,3 +1,3 @@
 # Barcode Generator
 
-Generate 1D and 2D barcodes
+A Raycast plugin to quickl generate 1D and 2D barcodes
